@@ -1,0 +1,49 @@
+{
+    "name": "Better Business Bureau",
+    "description": "<p>The Better Business Bureau (BBB), founded in 1912, is a nonprofit organization focused on advancing marketplace trust, consisting of 112 independently incorporated local BBB organizations in the United States and Canada, coordinated under the Council of Better Business Bureaus (CBBB) in Arlington, Virginia.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/200px-Better_Business_Bureau.svg.png",
+    "tags": [
+        "api provider",
+        "business",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/better-business-bureau\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Better Business Bureau",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/200px-Better_Business_Bureau.svg.png",
+            "humanURL": "http:\/\/www.bbb.org\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/better-business-bureau-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.bbb.org"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/developer.bbb.org\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/developers.bbb.org\/documentation\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.bbb.org\/"
+        }
+    ]
+}
